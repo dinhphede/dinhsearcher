@@ -3,16 +3,16 @@
 <h2>🧠LOCALIZATION🧠</h2>
 <p>There is localization of such languages ​​as: Spanish, French, German and English</p>
 <h2>🔎Search Query🔎</h2>
-<h3👑Emperors👑</h3>
+<h3>👑Emperors👑</h3>
 <ul>
   <li>Dinh Bo Linh</li>
   <li>Dinh Bo Linh</li>
 </ul>
-<h3>Chancellor</h3>
+<h3>👑Chancellor👑</h3>
 <ul>
   <li>Nguyen Bac</li>
 </ul>
-<h3>Chancellor</h3>
+<h3>🏙City🏙</h3>
 <ul>
-  <li>Nguyen Bac</li>
+  <li>Hoa Lu</li>
 </ul>
