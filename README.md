@@ -3,8 +3,8 @@
 <h2>🧠LOCALIZATION🧠</h2>
 <p>There is localization of such languages ​​as: Spanish, French, German and English</p>
 <h2>🔎Search Query🔎</h2>
+<h3>Emperors</h3>
 <ul>
-  <h3>Emperors</h3>
   <li>Dinh Bo Linh</li>
   <li>Dinh Bo Linh</li>
 </ul>
