@@ -8,3 +8,7 @@
   <li>Dinh Bo Linh</li>
   <li>Dinh Bo Linh</li>
 </ul>
+<h3>Chancellor</h3>
+<ul>
+  <li>Nguyen Bac</li>
+</ul>
