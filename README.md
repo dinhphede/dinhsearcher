@@ -6,7 +6,7 @@
 <h3>👑Emperors👑</h3>
 <ul>
   <li><a href="[https://en.wikipedia.org/wiki/%C4%90inh_B%E1%BB%99_L%C4%A9nh](https://en.wikipedia.org/wiki/%C4%90inh_B%E1%BB%99_L%C4%A9nh)">Dinh Bo Linh</a></li>
-  <li><a href="[https://en.wikipedia.org/wiki/%C4%90inh_B%E1%BB%99_L%C4%A9nh](https://en.wikipedia.org/wiki/%C4%90inh_Ph%E1%BA%BF_%C4%90%E1%BA%BF)">Ding Phe De</a></li>
+  <li><a href="[https://en.wikipedia.org/wiki/%C4%90inh_B%E1%BB%99_L%C4%A9nh](https://en.wikipedia.org/wiki/%C4%90inh_Ph%E1%BA%BF_%C4%90%E1%BA%BF)">Dinh Phe De</a></li>
 </ul>
 <h3>👑Chancellor👑</h3>
 <ul>
